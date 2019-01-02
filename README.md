@@ -1,2 +1,2 @@
 # Quiz-Maker
-Phyton Project
+Python Project
